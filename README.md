@@ -21,3 +21,5 @@ My word:
 	-I gave the links the attribute 'data-nav-nav' becuase I wanted to avoid selecting the sections with the links when I want to select the links only.
 	-I added the 'menu__show' box to make the navigation bar easier to get hiden for mobile phone users.
 	-I added a button for scrolling to the top of the page easily.
+	CONTENT OBTAINED FROM OTHER SOURCES
+	=I used https://www.w3schools.com/ , https://developer.mozilla.org/en-US/ , https://css-tricks.com/ and random sites and communities a references 
